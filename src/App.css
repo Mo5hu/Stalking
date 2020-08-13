@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  align-content: center;
+  font-size: small;
+}
+
+.app_header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: grey;
+  margin-bottom: 20px;
+}
+
+.app_body {
+  justify-content: space-around;
+}
